@@ -51,3 +51,6 @@ Modular file structure
 SQLite-based storage
 
 Event & command handler
+
+5. View Terms of Service Here
+📜 [Terms of Service](./TOS.md)
